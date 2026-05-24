@@ -1,0 +1,6 @@
+{
+  "name": "AI Cybersecurity Threat Detection",
+  "description": "Enterprise-scalable real-time AI security threat detection, interactive anomaly behavior force-directed graph, telemetry forensics, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
